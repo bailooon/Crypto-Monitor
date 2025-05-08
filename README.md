@@ -8,13 +8,12 @@ Ao abrir o aplicativo, o usuário verá uma interface com a imagem de um Bitcoin
 
 ### 📱 Tela Inicial
 
-![imagem de inicialização](https://github.com/bailooon/Crypto-Monitor/blob/master/images/CryptoMonitorIniciar.png)
+![image](https://github.com/user-attachments/assets/76606f43-6802-46bc-bf5d-d1c6f6cf93ff)
 
 ### 🔄 Após Clicar em "Atualizar"
 
-![imagem após a ação](https://github.com/bailooon/Crypto-Monitor/blob/master/images/CryptoMonitorAcao.png)
+![image](https://github.com/user-attachments/assets/3abf7f6e-4520-4ba3-80f0-157c0cc47867)
 
----
 
 ## 🛠️ Estrutura do Projeto
 
